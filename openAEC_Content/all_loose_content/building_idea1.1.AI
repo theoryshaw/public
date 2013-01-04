@@ -1,0 +1,127 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (1.)
+%%BoundingBox: 136 285 457 498
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 288 384 288 384
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(volume) Ln
+0 A
+0 R
+1.0000 1.0000 1.0000 1.0000 K
+1.0000 1.0000 1.0000 1.0000 k
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+143.1641 366.6275 m
+356.9960 286.9665 L
+S
+143.1641 366.6275 m
+137.3658 408.4733 L
+S
+137.3658 408.4733 m
+360.2317 332.2505 L
+S
+267.4010 461.0367 m
+143.1641 366.6275 L
+S
+450.3164 410.8896 m
+267.4010 461.0367 L
+S
+356.9960 286.9665 m
+450.3164 410.8896 L
+S
+266.7415 497.5238 m
+137.3658 408.4733 L
+S
+456.2018 450.3947 m
+266.7415 497.5238 L
+S
+360.2317 332.2505 m
+456.2018 450.3947 L
+S
+267.4010 461.0367 m
+266.7415 497.5238 L
+S
+450.3164 410.8896 m
+456.2018 450.3947 L
+S
+356.9960 286.9665 m
+360.2317 332.2505 L
+S
+211.9582 418.9050 m
+409.3908 356.5432 L
+S
+241.9884 329.8114 m
+353.3611 437.4703 L
+S
+140.3218 387.1398 m
+267.0765 478.9928 L
+S
+211.9582 418.9050 m
+209.2527 457.9538 L
+S
+209.2527 457.9538 m
+414.3554 398.8796 L
+S
+240.0010 373.3708 m
+355.5837 475.4239 L
+S
+267.0765 478.9928 m
+453.2067 430.2904 L
+S
+353.3611 437.4703 m
+355.5837 475.4239 L
+S
+453.2067 430.2904 m
+358.5768 309.0897 L
+S
+409.3908 356.5432 m
+414.3554 398.8796 L
+S
+358.5768 309.0897 m
+140.3218 387.1398 L
+S
+241.9884 329.8114 m
+240.0010 373.3708 L
+S
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
